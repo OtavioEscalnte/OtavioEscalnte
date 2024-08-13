@@ -1,4 +1,4 @@
-# 🧑 Sobre mim:
+# Sobre mim:
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas<br>👨‍🎓Pós-graduado em Desenvolvimento Web Full Stack<br>💻 React, React-Native, NextJs
 
