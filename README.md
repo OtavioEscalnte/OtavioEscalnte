@@ -1,6 +1,6 @@
 # 🧑 Sobre mim:
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas<br>Pós-graduado em Desenvolvimento Web Full Stack<br>👨‍💻 Programador Front-end<br>💻 React, React-Native, NextJs<br>👨‍🎓 
+🎓 Formado em Análise e Desenvolvimento de Sistemas<br>👨‍🎓Pós-graduado em Desenvolvimento Web Full Stack<br>👨‍💻 Programador Front-end<br>💻 React, React-Native, NextJs
 
 ## 🌐 Redes Sociais:
 
