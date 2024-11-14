@@ -1,6 +1,6 @@
 # Sobre mim:
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas<br>👨‍🎓Pós-graduado em Desenvolvimento Web Full Stack<br>💻 Undergraduate in Cyber Defense
+🎓 Graduated in Systems Analysis and Development<br>👨‍🎓Postgraduate in Full Stack Web Development<br>💻 Undergraduate in Cyber Defense
 
 ## 🌐 Redes Sociais:
 
