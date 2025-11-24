@@ -4,7 +4,7 @@ I'm **Otávio Escalante**, a passionate **Network Analyst** specializing in **NO
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker)](https://skillicons.dev)
 
 ## GitHub Stats
 
