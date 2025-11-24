@@ -1,6 +1,6 @@
-## Hi there! 👋
+## Olá! 👋
 
-I'm **Otávio Escalante**, a passionate **Network Analyst** specializing in **NOC** and **SOC**. I enjoy tackling complex networking challenges and continuously improving system performance. Let's connect and collaborate!
+Sou **Otávio Escalante**, Analista de Redes com atuação em **NOC** e **SOC**
 
 ## Skills & Technologies
 
@@ -8,8 +8,8 @@ I'm **Otávio Escalante**, a passionate **Network Analyst** specializing in **NO
 
 ## GitHub Stats
 
-✨ **Public Repositories**: 10  
-👥 **Followers**: 10  
-👤 **Following**: 10  
+✨ **Repositorios Públicos**: 10  
+👥 **Seguidores**: 10  
+👤 **Seguindo**: 10  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OtavioEscalnte&show_icons=true&theme=radical)
