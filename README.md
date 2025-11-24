@@ -6,10 +6,6 @@ I'm **Otávio Escalante**, a passionate **Network Analyst** specializing in **NO
 
 I'm based in **Jaguarão, Rio Grande do Sul**, and currently work at **STA Telecom**. With a strong background in network analysis, I thrive in dynamic environments where I can apply my skills to ensure optimal network operations.
 
-## Skills & Technologies
-
-bash,docker,git,linux
-
 ## GitHub Stats
 
 ✨ **Public Repositories**: 10  
